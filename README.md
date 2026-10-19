@@ -1,50 +1,33 @@
-# Pandas Data Analysis Project
+# AI Adoption Impact Analysis Using Pandas
 
-## 📌 Project Overview
-This project demonstrates practical data analysis using Python and Pandas. It focuses on exploring a dataset, cleaning data, filtering records, and extracting useful insights.
+## Project Overview
+This project explores the impact of Artificial Intelligence (AI) adoption on employees across different industries and job roles using Python and Pandas.
 
-## 🎯 Objectives
-- Understand the structure and characteristics of a dataset.
-- Identify and handle missing values.
-- Check for duplicate records.
-- Filter data using conditions.
-- Group data and calculate summary statistics.
-- Explore patterns and trends in the dataset.
+## Objectives
+- Explore employee data across industries and job roles.
+- Analyze AI adoption levels and employee experience.
+- Perform data inspection and exploratory data analysis (EDA).
+- Visualize patterns in the dataset using Matplotlib.
+- Extract insights from the available data.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
+- NumPy
+- Matplotlib
 - Jupyter Notebook
-- Matplotlib (if used in the project)
 
-## 🔍 Project Workflow
-1. Load the dataset.
-2. Inspect rows, columns, and data types.
-3. Check for missing values and duplicates.
-4. Clean and transform data where required.
-5. Perform filtering and grouping operations.
-6. Summarize findings and visualize data where applicable.
+## Project Files
+- `og_project.ipynb` — notebook containing the analysis and visualizations.
+- `ai_job_impact.csv` — dataset used by the notebook, if included in the repository.
 
-## ▶️ How to Run
+## How to Run
 1. Clone or download this repository.
 2. Install the required libraries:
+   `pip install pandas numpy matplotlib jupyter`
+3. Open `og_project.ipynb` in Jupyter Notebook.
+4. Ensure `ai_job_impact.csv` is available in the expected location.
+5. Run the notebook cells.
 
-   ```bash
-   pip install pandas jupyter matplotlib
-   ```
-
-3. Open the notebook in Jupyter:
-
-   ```bash
-   jupyter notebook
-   ```
-
-4. Open `pandas_analysis.ipynb` and run the cells.
-
-## 📊 Key Findings
-Add the actual insights and observations obtained from your analysis here.
-
-## 👩‍💻 Author
-Joshika G
-
-
+## Author
+Joshika G.
